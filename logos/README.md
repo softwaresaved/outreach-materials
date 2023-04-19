@@ -1,4 +1,4 @@
-# Software Sustainability Institute logos 
+# Software Sustainability Institute Logos 
 
 <h2>Primary Logo</h2>
 <img alt="SSI Primary Logo" data-align="center" data-entity-type="" data-entity-uuid="" height="107" src="/logos/SSI-LOGOS/RED LOGOS/SSI_PRIMARY-LOGO.png" width="335" />
