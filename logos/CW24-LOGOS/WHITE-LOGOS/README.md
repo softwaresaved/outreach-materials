@@ -5,18 +5,4 @@ Each logo is available in the following formats:
 * svg
 * eps
 
-## Primary logo
-<div style="background-color:black">
-
-<img src="SSI_CW24-PRIMARY-LOGO-WHITE.png" ALT="CW24 primary logo" WIDTH="25%" HEIGHT="25%" ALIGN="LEFT"/>
-
-</div><br/><br/>
-
-## Stacked logo
-
-<div style="background-color:black">
-
-<img src="SSI_CW24-STACKED-LOGO-WHITE.png" ALT="CW24 stacked logo" WIDTH="25%" HEIGHT="25%" ALIGN="LEFT"/>
-
-</div>
-
+Cannot preview a white logo on a white background - have a look at the other CW24 logos and imagine it in white.
